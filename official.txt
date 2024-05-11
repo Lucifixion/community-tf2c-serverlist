@@ -1,0 +1,7 @@
+"tf2classic_servers"
+{
+    "officialserver1"
+    {
+        "full_address"        "69.201.42.125:27025"
+    }
+}
